@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 粵西詩載
-#+DATE: 2020-03-31 11:42:39.670774
+#+DATE: 2020-03-31 11:42:41.546841
 #+PROPERTY: ID KR4h0159
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 4
 <pb:KR4h0159_WYG_004-1a>¶
 　　欽定四庫全書¶
@@ -16,7 +16,7 @@
 ¶
 　　送普顔子夀赴廣西憲幕　　　(明)劉　基¶
 ¶
-　　離維荆衡南𨓦迤走蠻徼民風雜猺蜑地勢帶蒙詔迢¶
+　　離維荆衡南邐迤走蠻徼民風雜猺蜑地勢帶蒙詔迢¶
 迢商周前風水絶纖竅後王務廣土懐柔倚攻剽羈縻¶
 非本情疲痾復誰療大明侔日月幽裔靡不照化育之¶
 <pb:KR4h0159_WYG_004-1b>¶

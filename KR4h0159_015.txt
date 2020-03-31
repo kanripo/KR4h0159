@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 粵西詩載
-#+DATE: 2020-03-31 11:42:39.809606
+#+DATE: 2020-03-31 11:42:41.701690
 #+PROPERTY: ID KR4h0159
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 15
 <pb:KR4h0159_WYG_015-1a>¶
 　　欽定四庫全書¶
@@ -790,7 +790,7 @@
 ¶
 　　九日追陪宴此亭悠然遐思入鴻冥江山不盡心千里¶
 <pb:KR4h0159_WYG_015-31b>¶
-風月無邊草一庭采菊且𢬵陶令醉生芻空酹武侯靈¶
+風月無邊草一庭采菊且拚陶令醉生芻空酹武侯靈¶
 相看白髮輸誰健共羡閩南老徳星¶
 ¶
 　　都嶠山　　　　　　　　　　　袁　衷¶

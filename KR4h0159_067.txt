@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 粵西詩載
-#+DATE: 2020-03-31 11:42:40.531530
+#+DATE: 2020-03-31 11:42:42.358282
 #+PROPERTY: ID KR4h0159
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 67
 <pb:KR4h0159_WYG_067-1a>¶
 　　欽定四庫全書¶
@@ -174,7 +174,7 @@
 　　全州續題名碑　　　　　　　鄧　均¶
 ¶
 　　題名古也余一日歩州治西偏得片石方不盈二尺伏¶
-於牆隅蒙以埃&KR0381;過者弗睨細視之乃前牧守程公數¶
+於牆隅蒙以埃壒過者弗睨細視之乃前牧守程公數¶
 <pb:KR4h0159_WYG_067-9b>¶
 人焉噫題名之應書法有美有刺美也百世猶有芬香¶
 反是人得指目惡亦不泯茍云乎哉按程而下數公治¶

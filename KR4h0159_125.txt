@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 粵西詩載
-#+DATE: 2020-03-31 11:42:41.413230
+#+DATE: 2020-03-31 11:42:43.042126
 #+PROPERTY: ID KR4h0159
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 125
 <pb:KR4h0159_WYG_125-1a>¶
 　　欽定四庫全書¶
@@ -323,7 +323,7 @@
 軍徳政官家明天國王為文詔以南丹州印賜之令毁¶
 其印¶
 ¶
-　　六年莫世忍以大軍討安化州蠻因獻弓矢自言&KR0133;世¶
+　　六年莫世忍以大軍討安化州蠻因獻弓矢自言碩世¶
 <pb:KR4h0159_WYG_125-14b>¶
 世為外臣脩貢不懈遷檢校户部尚書給銅牌旗號官¶
 其子侄九人¶

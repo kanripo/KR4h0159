@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 粵西詩載
-#+DATE: 2020-03-31 11:42:41.050014
+#+DATE: 2020-03-31 11:42:42.771998
 #+PROPERTY: ID KR4h0159
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 99
 <pb:KR4h0159_WYG_099-1a>¶
 　　欽定四庫全書¶
@@ -360,7 +360,7 @@
 有光詞林講筵鏗鍠陸離肆厥文翰士欽徳程國繋真¶
 <pb:KR4h0159_WYG_099-19b>¶
 幹胡不耄耋寢莫起之來曷啟之去曷尼之呂岸之原¶
-玉&KR1601;在兹萬嵗千秋視此銘詩¶
+玉瘞在兹萬嵗千秋視此銘詩¶
 ¶
 　　嘉議大夫工部右侍郎雙橋蔣公淦墓誌銘¶
 ¶

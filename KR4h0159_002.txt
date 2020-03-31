@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 粵西詩載
-#+DATE: 2020-03-31 11:42:39.644189
+#+DATE: 2020-03-31 11:42:41.523057
 #+PROPERTY: ID KR4h0159
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 2
 <pb:KR4h0159_WYG_002-1a>¶
 　　欽定四庫全書¶
@@ -511,7 +511,7 @@
 ¶
 　　送端臣桂林先生兼簡信叔帥座朱芾¶
 ¶
-　　驂鸞碧玉林琢句白瓊瑶人間埃&KR0381;盡星羅數分毫程¶
+　　驂鸞碧玉林琢句白瓊瑶人間埃壒盡星羅數分毫程¶
 <pb:KR4h0159_WYG_002-23a>¶
 公列仙長磊落粹露□玉厯發太和泓君同逍遥刻巖¶
 栖烏鴉陟巘透紫霄南風毋賦鵩即是宣室招¶

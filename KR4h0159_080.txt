@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 粵西詩載
-#+DATE: 2020-03-31 11:42:40.726904
+#+DATE: 2020-03-31 11:42:42.515824
 #+PROPERTY: ID KR4h0159
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 80
 <pb:KR4h0159_WYG_080-1a>¶
 　　欽定四庫全書¶
@@ -22,7 +22,7 @@
 <pb:KR4h0159_WYG_080-1b>¶
 累奉游宴竊觀物象涉旬模擬不得萬一竊復詳忖進¶
 退若墜久稽篆刻則有違慢之辜速課空薄又見疎蕪¶
-之累&KR0317;期廢事尤所戰慄謹修撰訖上獻退自跼&KR1074;不¶
+之累愆期廢事尤所戰慄謹修撰訖上獻退自跼踳不¶
 知所裁無任隕越惶恐之至¶
 ¶
 　　與邕州李域中丞論陸卓啟¶

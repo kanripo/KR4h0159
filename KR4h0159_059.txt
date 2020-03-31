@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 粵西詩載
-#+DATE: 2020-03-31 11:42:40.421442
+#+DATE: 2020-03-31 11:42:42.266114
 #+PROPERTY: ID KR4h0159
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 59
 <pb:KR4h0159_WYG_059-1a>¶
 　　欽定四庫全書¶
@@ -143,7 +143,7 @@
 渚舟屯寒山應雨紫水流霞五岡秀麗八叠縈廻石巖¶
 仙隠金鼎禪蹤之什以想侯之惠澤也請繫銘銘曰吁¶
 <pb:KR4h0159_WYG_059-8a>¶
-嗟賢侯有濟川才爰構津梁以便往来𣋌如虹蜺環城¶
+嗟賢侯有濟川才爰構津梁以便往来曄如虹蜺環城¶
 之隈赤猶映水碧甃凝苔控制南荒此其逵路淖弗病¶
 渉漲弗病渡乗傳南来朝天北去必有顯人于斯題柱¶
 ¶

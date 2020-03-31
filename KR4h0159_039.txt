@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 粵西詩載
-#+DATE: 2020-03-31 11:42:40.152710
+#+DATE: 2020-03-31 11:42:42.032016
 #+PROPERTY: ID KR4h0159
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 39
 <pb:KR4h0159_WYG_039-1a>¶
 　　欽定四庫全書¶
@@ -370,7 +370,7 @@
 梧採藥者時得青石潔如珠服之不死帶者身輕(洞㝠記)¶
 ¶
 　　圖經云朱臨水在郡城南後漢郡守陳穉升郡事暇¶
-時釣魚於此(名勝志)　朝臺岡在城北六朝范𣋌築臺山¶
+時釣魚於此(名勝志)　朝臺岡在城北六朝范曄築臺山¶
 上遇正朔輒率羣僚望朝而拜¶
 ¶
 　　蒼梧縣¶

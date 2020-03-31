@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 粵西詩載
-#+DATE: 2020-03-31 11:42:41.370731
+#+DATE: 2020-03-31 11:42:43.013146
 #+PROPERTY: ID KR4h0159
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 122
 <pb:KR4h0159_WYG_122-1a>¶
 　　欽定四庫全書¶
@@ -524,10 +524,10 @@
 上吻覆額血可染緋䯱髵紅髮飲其血能見鬼物¶
 ¶
 <pb:KR4h0159_WYG_122-23a>¶
-　　荼𩠐¶
+　　荼首¶
 ¶
-　　荼𩠐出羈縻州似鹿而兩頭食香草其行如飛鳴曰蔡¶
-茂蔡茂荼𩠐二字音蔡茂也亦有五六頭者是名𤣥仙¶
+　　荼首出羈縻州似鹿而兩頭食香草其行如飛鳴曰蔡¶
+茂蔡茂荼首二字音蔡茂也亦有五六頭者是名𤣥仙¶
 敬之終吉射之悔亡¶
 ¶
 　　子路¶

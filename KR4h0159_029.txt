@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 粵西詩載
-#+DATE: 2020-03-31 11:42:40.010905
+#+DATE: 2020-03-31 11:42:41.903667
 #+PROPERTY: ID KR4h0159
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 29
 <pb:KR4h0159_WYG_029-1a>¶
 　　欽定四庫全書¶
@@ -214,7 +214,7 @@
 　　為滎陽公桂州舉人自代狀(某官裴俅)¶
 ¶
 　　右臣伏準某年月日勅内外文武官上後舉一人自代¶
-者伏見前件官𨚍鄉茂族洛下名生處國家以必聞善¶
+者伏見前件官弼鄉茂族洛下名生處國家以必聞善¶
 <pb:KR4h0159_WYG_029-11a>¶
 兄弟而無瘉而又南翬耀綵東箭含筠身先較藝之場¶
 首出覲光之籍從外府而允稱賢佐立中臺而克號清¶

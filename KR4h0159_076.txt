@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 粵西詩載
-#+DATE: 2020-03-31 11:42:40.660028
+#+DATE: 2020-03-31 11:42:42.461572
 #+PROPERTY: ID KR4h0159
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 76
 <pb:KR4h0159_WYG_076-1a>¶
 　　欽定四庫全書¶
@@ -693,7 +693,7 @@
 端為詩文率沉明雅逸夫公不欲以智名勇功與天下¶
 <pb:KR4h0159_WYG_076-36a>¶
 競而况能吻吟脛引以求句字之工如藻繢之士哉顧¶
-其𣋌然蒼然之光自不可掩而覽者必知為大臣經國¶
+其曄然蒼然之光自不可掩而覽者必知為大臣經國¶
 之言故余不復道而述其大者焉¶
 ¶
 　　桂林圖志　　　　　　　　　吳桂芳¶

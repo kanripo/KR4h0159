@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 粵西詩載
-#+DATE: 2020-03-31 11:42:41.273202
+#+DATE: 2020-03-31 11:42:42.941668
 #+PROPERTY: ID KR4h0159
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 115
 <pb:KR4h0159_WYG_115-1a>¶
 　　欽定四庫全書¶
@@ -116,7 +116,7 @@
 　　咸平元年夏五月昭州淫雨大水民溺死者五百十一¶
 人¶
 ¶
-　　嘉祐三年夏六月邕州&KR0275;風大作城樓民屋盡壊幾無¶
+　　嘉祐三年夏六月邕州颶風大作城樓民屋盡壊幾無¶
 留甓¶
 ¶
 　　咸淳十年蒼梧雨血著於草木行人衣服赤¶
